@@ -1,0 +1,12 @@
+<yml_catalog>
+    <shop>
+        <offers>
+            <offer id="А574 4785">
+                <price>5000</price>
+                <outlets>
+                    <outlet instock="10" warehouse_name="Склад Epique"></outlet>
+                </outlets>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
