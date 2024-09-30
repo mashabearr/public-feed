@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-08-15T14:37:38+03:00">
+    <shop>
+        <offers>
+            <offer id="А574 4785">
+                <price>5000</price>
+                <outlets>
+                    <outlet instock="10" warehouse_name="Склад Epique"></outlet>
+                </outlets>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
